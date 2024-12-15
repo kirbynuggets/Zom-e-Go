@@ -16,7 +16,7 @@ This is a **Zomato-inspired food delivery application** that I am building to sh
 ## Tech Stack 💻  
 
 ### Frontend:  
-- **HTML5**, **CSS3**, **JavaScript**, **Bootstrap**  
+- **HTML5**, **CSS3**, **JavaScript**, **React*, **Bootstrap**  
 
 ### Backend (In Progress):  
 - **Django** (Framework)  
@@ -26,10 +26,10 @@ This is a **Zomato-inspired food delivery application** that I am building to sh
 
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/<your-username>/zomato-clone.git  
+   git clone https://github.com/kirbynuggets/zomigo.git  
 
 2. Navigate to the project directory:
     
-    cd zomato-clone
+    cd zomigo
 
 3. Open the index.html file in a browser to explore the current front-end.
