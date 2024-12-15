@@ -29,7 +29,7 @@ This is a **Zomato-inspired food delivery application** that I am building to sh
    git clone https://github.com/kirbynuggets/zomigo.git  
 
 2. Navigate to the project directory:
-    
+    ```bash  
     cd zomigo
 
 3. Open the index.html file in a browser to explore the current front-end.
