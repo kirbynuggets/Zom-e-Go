@@ -16,7 +16,7 @@ This is a **Zomato-inspired food delivery application** that I am building to sh
 ## Tech Stack 💻  
 
 ### Frontend:  
-- **HTML5**, **CSS3**, **JavaScript**, **React*, **Bootstrap**  
+- **HTML5**, **CSS3**, **JavaScript**, **React**, **Bootstrap**  
 
 ### Backend (In Progress):  
 - **Django** (Framework)  
