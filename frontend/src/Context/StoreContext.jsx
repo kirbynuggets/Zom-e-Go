@@ -5,7 +5,7 @@ export const StoreContext = createContext(null);
 
 const StoreContextProvider = (props) => {
 
-    const url = "http://localhost:4000"
+    /*const url = "http://localhost:4000"
     const [food_list, setFoodList] = useState([]);
     const [cartItems, setCartItems] = useState({});
     const [token, setToken] = useState("")
@@ -67,9 +67,9 @@ const StoreContextProvider = (props) => {
         }
         loadData()
     }, [])
-
+    */
     const contextValue = {
-        url,
+        /*url,
         food_list,
         menu_list,
         cartItems,
@@ -81,7 +81,7 @@ const StoreContextProvider = (props) => {
         loadCartData,
         setCartItems,
         currency,
-        deliveryCharge
+        deliveryCharge*/
     };
 
     return (

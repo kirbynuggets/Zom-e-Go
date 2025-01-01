@@ -180,21 +180,21 @@ export const food_list = [
         category: "Rolls"
     }, {
         _id: "9",
-        name: "Couple Ice Cream Rolls",
+        name: "Ripple Ice Cream",
         image: food_9,
         price: 14,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Desserts"
     }, {
         _id: "10",
-        name: "Trending Instagram Ice Cream",
+        name: "Fruit Ice Cream",
         image: food_10,
         price: 22,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Desserts"
     }, {
         _id: "11",
-        name: "Soap Ice Cream",
+        name: "Jar Ice Cream",
         image: food_11,
         price: 10,
         description: "Food provides essential nutrients for overall health and well-being",
@@ -295,7 +295,7 @@ export const food_list = [
     },
     {
         _id: "25",
-        name: "Alfredo Pasta",
+        name: "Cheese Pasta",
         image: food_25,
         price: 12,
         description: "Food provides essential nutrients for overall health and well-being",
@@ -303,14 +303,14 @@ export const food_list = [
     },
     {
         _id: "26",
-        name: "Arrabiata Pasta",
+        name: "Tomato Pasta",
         image: food_26,
         price: 18,
         description: "Food provides essential nutrients for overall health and well-being",
         category: "Pasta"
     }, {
         _id: "27",
-        name: "Alfredo Pasta with loaded cheese",
+        name: "Creamy Pasta",
         image: food_27,
         price: 16,
         description: "Food provides essential nutrients for overall health and well-being",

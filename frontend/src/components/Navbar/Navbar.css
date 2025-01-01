@@ -1,25 +1,26 @@
 .navbar {
-    padding: 20px 0px;
+    padding: 0px 0px;
+    margin-top: -50px;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
 .navbar .logo {
-    width: 150px;
+    width: 240px;
 }
 
 .navbar-menu {
     display: flex;
     list-style: none;
-    gap: 20px;
-    color: #49557E;
+    gap: 30px;
+    color: #000001;
     font-size: 18px;
 }
 
 .navbar-menu .active {
     padding-bottom: 2px;
-    border-bottom: 2px solid #49557E;
+    border-bottom: 2px solid #d45616;
 }
 
 .navbar-right {
@@ -36,7 +37,7 @@ position: relative;
     position: absolute;
     min-width: 10px;
     min-height: 10px;
-    background-color: #FF4C24;
+    background-color: tomato;
     border-radius: 5px;
     top: -8px;
     right: -8px;
@@ -45,16 +46,17 @@ position: relative;
 .navbar-right button {
     background: transparent;
     font-size: 16px;
-    color: #49557E;
-    border: 1px solid #FF4C24;
-    padding: 10px 30px;
+    color:#000001;
+    border: 3px solid tomato;
+    padding: 10px 20px;
     border-radius: 50px;
     cursor: pointer;
     transition: 0.3s;
 }
 
 .navbar-right button:hover {
-    background: #fff4f2;
+    background: #529b41;
+    color: #fff2ef;
 }
 
 .navbar-profile{

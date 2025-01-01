@@ -2,13 +2,15 @@
     display: flex;
     flex-direction: column;
     gap: 20px;
+    padding: 110px 0px;
 }
 .explore-menu h1{
     color: #262626;
-    font-weight: 500;
+    font-weight: 1000;
+    font-size: 3.5vw;
 }
 .explore-menu-text{
-    max-width: 60%;
+    max-width: auto;
     color: #808080;
 }
 .explore-menu-list{
